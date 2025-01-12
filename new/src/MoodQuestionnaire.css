@@ -1,0 +1,57 @@
+.mood-questionnaire {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+    min-height: 100vh;
+    background-image:url('https://img.freepik.com/free-photo/sky-sunset_53876-31348.jpg?t=st=1736672445~exp=1736676045~hmac=ae7d7b7ac9d4b55cc2ce4342c999bcbf9afc408264685c51c9b39dc5dc588ace&w=900');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height:100vh;
+  
+
+  }
+  
+  .question {
+    margin: 20px 0;
+  }
+  
+  .question button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #82C7F4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-btn {
+    background-color: #82C7F4;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom:20px;
+    display: inline-block; 
+  }
+  
+  .submit-btn:hover {
+    background-color: #82C7F4;
+  }
+  .close-btn {
+    background-color: #82C7F4;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left:20px;
+  }
+  
+  .close-btn:hover {
+    background-color: #82C7F4;
+  }
+
+  

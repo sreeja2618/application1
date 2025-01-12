@@ -1,0 +1,40 @@
+.stress-relief {
+    text-align: center;
+    margin-top: 20px;
+    padding:20px;
+    font-family: Arial, sans-serif;
+    background-image:url('https://img.freepik.com/free-photo/sky-sunset_53876-31348.jpg?t=st=1736672445~exp=1736676045~hmac=ae7d7b7ac9d4b55cc2ce4342c999bcbf9afc408264685c51c9b39dc5dc588ace&w=900');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height:100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Center the content vertically */
+  align-items: center; /* Center the content horizontally */
+  color: rgb(3, 3, 3);
+  }
+  
+  .stress-relief h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #050505;
+  }
+  
+  .stress-relief ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 1.2rem;
+    color: #0b0b0b;
+  }
+  
+  .stress-relief li {
+    margin: 10px 0;
+  }
+  
+  .stress-relief p {
+    font-size: 1rem;
+    margin-top: 20px;
+    color: #777;
+  }
+  

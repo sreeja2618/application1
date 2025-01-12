@@ -1,0 +1,47 @@
+.home {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  background-image:url('https://img.freepik.com/free-photo/sky-sunset_53876-31348.jpg?t=st=1736672445~exp=1736676045~hmac=ae7d7b7ac9d4b55cc2ce4342c999bcbf9afc408264685c51c9b39dc5dc588ace&w=900');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+}
+
+.welcome-section {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.welcome-title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.motivational-quote {
+  font-size: 1.2rem;
+  color: #090909;
+}
+
+.navigation {
+  position: absolute;
+  top: 20px; /* Distance from the top */
+  right: 20px; /* Distance from the right */
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  color: #080808; /* You can change this color */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #050505; /* Slight hover effect */
+}
+.nav-link + .nav-link {
+  margin-left: 20px; /* Adds space between the links */
+}
